@@ -63,3 +63,5 @@ do
         mv "$DESKTOP/$d" "$DESKTOP/$DIR_NAME/Folders" 
     fi
 done
+
+# touch 1.txt newd.docx aplle.png mkd.mp4 ddose.txt lde.mkv dwwe3.txt fjre.pdf ewewfe.mp3 few4few.html lekirfk.jpeg dekjrfi.gif wk3nvfj.png rjen3nf.mov ewdmedwier.doc ewnfjr.css ejewfr.jpg wjefjr3.png denrn.doc ennrj3.txt dewnennr.mp3 fnrnejrfn.mp4 fnrnwnwf.mkv fnrnjw.txt dmenrfroq.js fnrbnwbir.png dneuejnr.pdf emenrjkr.jpg enenejfhwefr.gif dnejwjf.mp3 fnrjwju4if.mp4 fnrjnw.mp3 fnrjwerifv.mp3 fnjwne.txt djenbwbg.doc enewrnwri.mp4 del.txt demwnfnr.docx emewnr.html dewqneir.mov fndwewoef.mp4 fnejwin.png fnejwnfjew.mp4 fnenwaor.pdf enwjejfnerw.jpg enewnwnfriwe.mp3 fnfrjwjrf.pdf enwqenari.mkv enewruiqer.png ewfneuwerhwe.png ewfnirjrfnf.mp4 ferwjjrfur.mp4 fniewriw.mp3 fwnwerwer.pdf dfewioelr.png dewminq3.png fewn.txt dewde.html dwnn32jmferw.mov enfewnef.mp4 fenwnwjurwf.mp4
