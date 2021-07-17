@@ -1,6 +1,6 @@
 #! /bin/bash
 
-DESKTOP="/Users/reza/Desktop"
+DESKTOP="$HOME/Desktop"
 DEF_NAME="OhMyDesk"
 # defining the -n arg
 if [ "$1" == "-n" ]
