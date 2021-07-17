@@ -17,7 +17,7 @@ TIME=$(date | awk '{print $4}')
 
 # making new directory and saving its name
 mkdir "$DESKTOP/$DEF_NAME-$TIME"
-NEW_LS=$(ls -t $DESKTOP)
+NEW_LS=$(ls -t "$DESKTOP")
 DIR_NAME=$(echo "$NEW_LS" | awk 'NR==1{print $1}')
 
 # making subDirectories
@@ -32,7 +32,7 @@ IMG=(png jpeg jpg gif)
 MEDIA=(mp3 mp4 mov mkv)
 
 # add slash afte directory names in ls by -p
-LIST=$(ls -p $DESKTOP)
+LIST=$(ls -p "$DESKTOP")
 # ask grep to choose all "without" slash (-v /) = List of files
 LIST_FILES=$(echo "$LIST" | grep -v /)
 
