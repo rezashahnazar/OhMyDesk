@@ -1,5 +1,8 @@
 #! /bin/bash
 
+#in order to fix the problem than space in filenames made mistake in iterating ls result.
+IFS=$'\n'
+
 DESKTOP="$HOME/Desktop"
 DEF_NAME="OhMyDesk"
 # defining the -n arg
