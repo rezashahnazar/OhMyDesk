@@ -1,5 +1,7 @@
 #! /bin/bash
 
+################# IFS and -n arg for lesson 5 #################
+
 #in order to fix the problem than space in filenames made mistake in iterating ls result.
 IFS=$'\n'
 
